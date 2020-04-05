@@ -1,0 +1,29 @@
+.navLink {
+  display: block;
+  margin-right: 20px;
+  padding: 4px 0;
+  font-weight: 400;
+  text-transform: uppercase;
+  font-size: 18px;
+  text-decoration: none;
+  color: rgb(41, 35, 36);
+}
+.active {
+  color: rgb(60, 121, 201);
+}
+.button {
+  border-radius: 4px;
+  color: rgb(31, 202, 103);
+  margin-bottom: 10px;
+  margin-top: 10px;
+  font-size: 16px;
+}
+.homePageList {
+  list-style: none;
+}
+.itemHomePage {
+  text-decoration: none;
+}
+.moviesPageList {
+  list-style: none;
+}

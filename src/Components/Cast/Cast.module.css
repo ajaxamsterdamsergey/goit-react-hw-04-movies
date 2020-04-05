@@ -1,0 +1,12 @@
+.image {
+  height: 200px;
+}
+.list {
+  list-style: none;
+}
+.character {
+  font-size: 18px;
+}
+.name {
+  font-size: 18px;
+}

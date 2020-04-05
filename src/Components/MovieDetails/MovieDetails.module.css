@@ -1,0 +1,25 @@
+.genre {
+  display: flex;
+  list-style: none;
+  padding-right: 6px;
+}
+.genreItem {
+  padding: 0;
+  display: flex;
+  margin-right: 15px;
+}
+.wrapper {
+  display: flex;
+  flex-wrap: nowrap;
+  padding-bottom: 20px;
+  border-bottom: solid 1px rgb(160, 160, 160);
+}
+.text {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.details {
+  margin-left: 20px;
+}
+.image {
+  height: 350px;
+}
