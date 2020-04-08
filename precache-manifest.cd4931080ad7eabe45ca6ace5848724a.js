@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "52a3a43cfe4eeb79b8e3b174d5f3058f",
+    "revision": "94f4013d8a469038bf497a4dc3257057",
     "url": "/goit-react-hw-04-movies/index.html"
   },
   {
-    "revision": "564290bdf777e5cdf38b",
+    "revision": "92ed5c6214a8263e475a",
     "url": "/goit-react-hw-04-movies/static/css/home-page.ff7593e3.chunk.css"
   },
   {
-    "revision": "1dc7323f02344d3eb01d",
+    "revision": "cea5dd76767f84b2c999",
     "url": "/goit-react-hw-04-movies/static/css/main.053eb738.chunk.css"
   },
   {
-    "revision": "18aca0e2830812fe516e",
+    "revision": "e91f469b2b7363534986",
     "url": "/goit-react-hw-04-movies/static/css/movie-details-page.7da78391.chunk.css"
   },
   {
@@ -24,31 +24,31 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/goit-react-hw-04-movies/static/js/0.aa471781.chunk.js"
   },
   {
-    "revision": "2c61570691c115597c65",
-    "url": "/goit-react-hw-04-movies/static/js/6.1b368c25.chunk.js"
+    "revision": "04f88b2d648943e16261",
+    "url": "/goit-react-hw-04-movies/static/js/6.6309ad22.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/goit-react-hw-04-movies/static/js/6.1b368c25.chunk.js.LICENSE.txt"
+    "url": "/goit-react-hw-04-movies/static/js/6.6309ad22.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "564290bdf777e5cdf38b",
-    "url": "/goit-react-hw-04-movies/static/js/home-page.3ca51f07.chunk.js"
+    "revision": "92ed5c6214a8263e475a",
+    "url": "/goit-react-hw-04-movies/static/js/home-page.d7c35176.chunk.js"
   },
   {
-    "revision": "1dc7323f02344d3eb01d",
-    "url": "/goit-react-hw-04-movies/static/js/main.f47b73b5.chunk.js"
+    "revision": "cea5dd76767f84b2c999",
+    "url": "/goit-react-hw-04-movies/static/js/main.166e0e32.chunk.js"
   },
   {
-    "revision": "18aca0e2830812fe516e",
-    "url": "/goit-react-hw-04-movies/static/js/movie-details-page.423490aa.chunk.js"
+    "revision": "e91f469b2b7363534986",
+    "url": "/goit-react-hw-04-movies/static/js/movie-details-page.3421c81d.chunk.js"
   },
   {
     "revision": "ccc400e0e9315b96c046",
     "url": "/goit-react-hw-04-movies/static/js/movies-page.47bd4a2b.chunk.js"
   },
   {
-    "revision": "8758fa4d84c2c3a800ce",
-    "url": "/goit-react-hw-04-movies/static/js/runtime-main.d6662d70.js"
+    "revision": "4b9928404876811448f9",
+    "url": "/goit-react-hw-04-movies/static/js/runtime-main.c19123fc.js"
   }
 ]);
