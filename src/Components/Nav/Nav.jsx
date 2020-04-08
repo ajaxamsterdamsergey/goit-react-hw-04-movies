@@ -4,7 +4,7 @@ import { active, navList, navLink } from "./Nav.module.css";
 const Nav = () => (
   <ul className={navList}>
     <li>
-      <NavLink exact to="/" className={navLink} activeClassName={active}>
+      <NavLink to="/" exact className={navLink} activeClassName={active}>
         Home
       </NavLink>
     </li>

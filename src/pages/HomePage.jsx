@@ -11,18 +11,19 @@ export default class HomePage extends Component {
   }
   render() {
     const { movies } = this.state;
+
     return (
       <div>
-        <ul className={homePageList}>
-          {movies.map((movie) => (
-            <li className={itemHomePage} key={movie.id}>
-              <Link to={`/movies/${movie.id}`}>{movie.title}</Link>
-            </li>
-          ))}
-        </ul>
+        {movies.length > 0 && (
+          <ul className={homePageList}>
+            {movies.map((movie) => (
+              <li className={itemHomePage} key={movie.id}>
+                <Link to={`/movies/${movie.id}`}>{movie.title}</Link>
+              </li>
+            ))}
+          </ul>
+        )}
       </div>
     );
   }
 }
-/* const HomePage = () => <h1>Dortmund</h1>;
-export default HomePage */
